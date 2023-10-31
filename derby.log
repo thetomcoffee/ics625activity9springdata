@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 31 11:11:47 CDT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018b-8681-5d7d-00000193c2e8 
+on database directory C:\Users\tomco\OneDrive\Documents\Metro State\ICS 625 Web Services and SOA\wk 9\ics625activity9springdata\student-db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e 
+Loaded from file:/C:/Users/tomco/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.2+9-78
+user.dir=C:\Users\tomco\OneDrive\Documents\Metro State\ICS 625 Web Services and SOA\wk 9\ics625activity9springdata
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
